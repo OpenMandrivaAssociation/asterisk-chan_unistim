@@ -10,7 +10,6 @@ URL:		http://www.mlkj.net/UNISTIM/
 Source0:	http://www.mlkj.net/asterisk/%{rname}-%{version}.tar.bz2
 BuildRequires:	asterisk-devel >= 1.2
 Requires:	asterisk >= 1.2
-Buildroot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This is a channel driver for Unistim protocol. You can use a least
