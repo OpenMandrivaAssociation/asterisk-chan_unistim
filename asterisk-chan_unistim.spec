@@ -6,7 +6,7 @@ Version:	0.9.4
 Release:	%mkrel 3
 License:	GPL
 Group:		System/Servers
-URL:		http://www.mlkj.net/UNISTIM/
+URL:		https://www.mlkj.net/UNISTIM/
 Source0:	http://www.mlkj.net/asterisk/%{rname}-%{version}.tar.bz2
 BuildRequires:	asterisk-devel >= 1.2
 Requires:	asterisk >= 1.2
