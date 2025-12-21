@@ -8,6 +8,7 @@ License:	GPL
 Group:		System/Servers
 URL:		https://www.mlkj.net/UNISTIM/
 Source0:	http://www.mlkj.net/asterisk/%{rname}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	asterisk-devel >= 1.2
 Requires:	asterisk >= 1.2
 Buildroot:	%{_tmppath}/%{name}-%{version}
