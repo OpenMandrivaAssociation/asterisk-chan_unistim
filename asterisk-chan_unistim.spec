@@ -3,7 +3,7 @@
 Summary:	This module adds Unistim protocol support to the Asterisk PBX
 Name:		asterisk-%{rname}
 Version:	0.9.4
-Release:	%mkrel 3
+Release:	4
 License:	GPL
 Group:		System/Servers
 URL:		https://www.mlkj.net/UNISTIM/
